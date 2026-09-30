@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://goshitsarch-eng.github.io/project4-classic-site/sitemap.xml
