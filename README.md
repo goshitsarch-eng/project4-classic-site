@@ -19,5 +19,8 @@ repository remains private. The site uses the app's own Gosh Apps icon.
 These public URLs are intended for Google Auth Platform's app-domain fields.
 Publishing the website does not itself publish or verify the OAuth application.
 Google controls OAuth production status and domain/branding verification.
+The OAuth audience is in production. Google Search Console verified ownership
+using `google9e8471af1a16682b.html`; keep that file at the site root when publishing
+future updates so ownership remains verified.
 
 Copyright (c) 2026 Gosh Apps. All rights reserved.
